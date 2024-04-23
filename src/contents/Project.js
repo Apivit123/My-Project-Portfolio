@@ -24,7 +24,7 @@ export const data =[
         title:"Portfolio",
         link:"",
         materials:[
-            {type: faGithub, link:"http://localhost:5173"}
+            {type: faGithub, link:"https://github.com/Apivit123/My-Project-Portfolio.git"}
         ],
         descriptions:[
             "A simple and minimalist portfolio for developers built with React and TailwindCSS"
